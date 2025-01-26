@@ -18,5 +18,4 @@ Bienvenue sur Mon guide d'installation est de configuration pour mon mods DJO_Re
 
 ---
 
-### Téléchargement
-Chaque dépôt contient les fichiers nécessaires.
+[retourner a la collections](https://github.com/Djolehaineux/DJO-mods-collection)
