@@ -15,6 +15,7 @@ Bienvenue sur Mon guide d'installation est de configuration pour mon mods DJO_Re
 - cfgrandompresets_Retexture.xml
 - TraderConfig.txt
 - ClasseName.txt
+- cfgeconomycore.xml (exemple)
 
 ### CONFIGUREZ VOTRE ÉCONOMIE
 (à venir)
