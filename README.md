@@ -9,13 +9,15 @@ Bienvenue sur Mon guide d'installation est de configuration pour mon mods DJO_Re
 - Ajoutez `@DJO_Retextured` a la barre de lancement de vot mods.
 - Ce processus peut varier en fonction de votre hébergeur.
 
-
 ### FICHIER FOURNI
 - types_Retexture.xml
 - cfgspawnabletypes_Retexture.xml
 - cfgrandompresets_Retexture.xml
 - TraderConfig.txt
 - ClasseName.txt
+
+### CONFIGUREZ VOTRE ÉCONOMIE
+(à venir)
 
 ---
 
